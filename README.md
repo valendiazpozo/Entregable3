@@ -73,6 +73,3 @@ sqlcmd -S localhost -d Ventas_Tech_DB -E -i sql/m4_consultas_negocio.sql
 
 Agrega aquí capturas del reporte y las conclusiones principales (por ejemplo, productos más vendidos, clientes recurrentes y comparación de canales).
 
-## Autor
-
-Proyecto desarrollado como parte de un portafolio de análisis de datos. ¡Los comentarios y sugerencias son bienvenidos!
