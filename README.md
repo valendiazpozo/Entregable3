@@ -13,7 +13,7 @@ Proyecto de análisis de datos que evalúa las **ventas** y el **comportamiento 
 
 | Herramienta | Uso |
 |---|---|
-| **SQL Server** | Creación de la base de datos, consultas de negocio y vistas |
+| **SQL Server Management Studio (SSMS)** | Creación de la base de datos, consultas de negocio y vistas |
 | **Power BI** | Modelo de datos, medidas DAX y reporte interactivo |
 | **GitHub** | Control de versiones y documentación del proyecto |
 
