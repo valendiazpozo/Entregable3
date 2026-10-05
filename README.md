@@ -28,21 +28,6 @@ Base de datos: `Ventas_Tech_DB` (esquema `dbo`)
 | `DimProductos` | Catálogo de productos | `id_producto`, `Nombre_producto`, `id_categoria`, `Precio`, `Stock`, `activo` |
 | `Ventas` | Tabla de hechos | `id_venta`, `id_cliente`, `id_producto`, `cantidad`, `precio_unitario`, `fecha_venta` |
 
-## Estructura del repositorio
-
-```
-RetailPro/
-├── sql/
-│   ├── 01_crear_base_datos.sql      # Creación de Ventas_Tech_DB y tablas
-│   ├── m4_consultas_negocio.sql     # Resumen mensual, ranking de productos, clientes recurrentes
-│   └── m5_consultas_joins.sql       # JOINs, clientes/productos sin ventas, consolidado por canal
-├── powerbi/
-│   └── RetailPro.pbix               # Reporte de Power BI
-└── README.md
-```
-
-> Ajusta los nombres y rutas a la estructura real de tu repositorio.
-
 ## Cómo ejecutar los scripts SQL
 
 ### Requisitos
